@@ -1,0 +1,6 @@
+lanchain
+tiktoken
+openai
+streamlit
+boto3
+botocore
