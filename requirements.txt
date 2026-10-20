@@ -1,6 +1,4 @@
-lanchain
+langchain
 tiktoken
-openai
-streamlit
-boto3
-botocore
+dotenv
+langchain-groq
